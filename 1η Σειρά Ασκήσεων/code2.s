@@ -1,5 +1,5 @@
 .data
-x: .word 74 # el22674 -> last two digits = 74
+x: .word 74 #last two digits = 74
 .text
 .globl main
 
